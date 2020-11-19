@@ -10,11 +10,11 @@ Todo o jogo foi programado em conjunto de Thiago Nascimento, que também é alun
   
  
 ## Comandos do Player:
-  * Setas para a direita e esquerda: movimentar em suas respectivas direções;
-  * Botão Z: pular, podendo ser usado mais uma vez enquanto no ar;
-  * Botão X: atirar (observação: botão não pode ser pressionado para realizar um tiro contínuo);
-  * Botão R: reiniciar o jogo até o último checkpoint;
-  * Botão ESC: abrir o menu do jogo, não serve para pausar o jogo.
+  * **Setas para a direita e esquerda**: movimentar em suas respectivas direções;
+  * **Botão Z**: pular, podendo ser usado mais uma vez enquanto no ar;
+  * **Botão X**: atirar (observação: botão não pode ser pressionado para realizar um tiro contínuo);
+  * **Botão R**: reiniciar o jogo até o último checkpoint;
+  * **Botão ESC**: abrir o menu do jogo, não serve para pausar o jogo.
   
 ## Poder dos Chefões:
   * **YouTube**: Cuidado com o poder dele que cai como chuva. Você pode acabar desmonetizado.
